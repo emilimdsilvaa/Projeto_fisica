@@ -1,4 +1,4 @@
-🧮 Calculadora Java para exercício de Física
+ Calculadora Java para exercício de Física
 
 Simulador de Lançamento Vertical com Interface Gráfica em Java (JFrame)
 
