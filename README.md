@@ -1,5 +1,5 @@
 
- CALCULADORA JAVA PARA EXERCÍCIO DE FÍSICA
+ 👩‍💻CALCULADORA JAVA PARA EXERCÍCIO DE FÍSICA
 
 Simulador de Lançamento Vertical com Interface Gráfica em Java (JFrame)
 
